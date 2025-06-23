@@ -1,0 +1,10 @@
+title: Scollard Solutions
+description: Professional solutions from tech to manual labor
+theme: minima
+markdown: kramdown
+
+# Optional nav links if using a theme that supports it
+minima:
+  social_links:
+    github: yourusername
+    linkedin: your-linkedin-username
