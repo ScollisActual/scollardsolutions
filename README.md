@@ -1,21 +1,16 @@
 ---
-title: Welcome to My Site
 layout: default
+title: Home
 ---
 
-# Welcome to My Site
+# Scollard Solutions
 
-This is a simple website powered by GitHub Pages using Markdown.
+Welcome to **Scollard Solutions**, where professionalism meets performance. We specialize in tech consulting, cybersecurity, and hands-on operational solutions.
 
-## About Me
+## Our Services
 
-I'm passionate about technology, cybersecurity, and building cool stuff.
+- Cybersecurity Consulting
+- Technical Surveillance Solutions
+- Custom DIY & Electronics Projects
 
-## Projects
-
-- [Project One](https://github.com/yourusername/project-one)
-- [Project Two](https://github.com/yourusername/project-two)
-
-## Contact
-
-You can reach me at [your@email.com](mailto:your@email.com).
+[Learn more about us »](about.md)
