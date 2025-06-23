@@ -7,7 +7,7 @@ title: Contact
 
 Feel free to reach out with questions, requests, or partnerships.
 
-📧 Email: [hello@scollardsolutions.com](mailto:hello@scollardsolutions.com)
+📧 Email: [info@scollardsolutions.com](mailto:info@scollardsolutions.com)
 
 📍 Location: Laurel, MD (Serving Maryland and Washington state)
 
